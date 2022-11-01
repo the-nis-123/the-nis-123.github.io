@@ -1,0 +1,43 @@
+{
+  "users":[
+    {
+      "id":1,
+      "username":"John Doe",
+      "avatar":"https://www.kindpng.com/picc/m/97-970776_img-0422-linkedin-profile-picture-men-hd-png.png",
+      "job":"Marketing Director",
+      "company":"Eggo stores"
+    },
+
+    {
+      "id":2,
+      "username":"Beth Alex",
+      "avatar":"https://p.kindpng.com/picc/s/719-7191929_zofia-linkedin-profile-headshot-linkedin-profile-picture-for.png",
+      "job":"Managing Director",
+      "company":"Igalo group"
+    },
+
+    {
+      "id":3,
+      "username":"Amil Wang",
+      "avatar":"https://p.kindpng.com/picc/s/404-4042717_face-profile-png-circle-profile-picture-hd-png.png",
+      "job":"Fashion Designer",
+      "company":"Sola Styles"
+    },
+
+    {
+      "id":4,
+      "username":"Jack Murthy",
+      "avatar":"https://p.kindpng.com/picc/s/497-4973038_profile-picture-circle-png-transparent-png.png",
+      "job":"CEO",
+      "company":"Igalo group"
+    },
+
+    {
+      "id":5,
+      "username":"Janet Carson",
+      "job":"customer relations officer",
+      "avatar":"https://p.kindpng.com/picc/s/404-4042797_an-image-of-hayley-jayne-menere-talent-manager.png",
+      "company":"Sola Styles"
+    }
+  ]
+}

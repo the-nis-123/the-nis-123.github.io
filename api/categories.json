@@ -1,0 +1,27 @@
+{
+  "categories":[
+    {
+      "id":1,
+      "name":"Apparel",
+      "image":"https://images.unsplash.com/photo-1630396592737-716bd8fc70a2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNsb3RoaW5nJTIwc3RvcmV8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+
+    {
+      "id":2,
+      "name":"Beauty and Fragrance",
+      "image":"https://images.unsplash.com/photo-1631730201811-2f6451dbce8a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YmVhdXR5JTJDJTIwZnJhZ3JhbmNlJTIwYW5kJTIwY29zbWV0aWNzfGVufDB8MXwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+
+    {
+      "id":3,
+      "name":"Accessories",
+      "image":"https://images.unsplash.com/photo-1492707892479-7bc8d5a4ee93?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZmFzaGlvbiUyMGFjY2Vzc29yaWVzfGVufDB8MXwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+
+    {
+      "id":4,
+      "name":"Footware",
+      "image":"https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGNsb3RoaW5nJTIwc3RvcmV8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    }
+  ]
+}

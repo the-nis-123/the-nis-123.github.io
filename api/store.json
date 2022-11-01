@@ -1,0 +1,444 @@
+{
+  "store":[
+    {
+      "id":1,
+      "name":"pink kids",
+      "tags":["boys", "girls"],
+      "price":123.86,
+      "category":"apparel",
+      "image": "https://p.kindpng.com/picc/s/15-159660_baby-clothes-png-free-download-newborn-baby-clothes.png"
+    },
+
+    {
+      "id":2,
+      "name":"Mens accesories",
+      "price":763.12,
+      "tags":["full pack", "gentle", "causual"],
+      "category":"apparel",
+      "image":"https://p.kindpng.com/picc/s/787-7874664_clothing-accessories-items-clothing-hd-png-download.png"
+    },
+
+    {
+      "id":3,
+      "price":63.99,
+      "name":"ladies sweater",
+      "category":"apparel",
+      "tags":["style", "winter", "ladies", "women", "girls"],
+      "image":"https://p.kindpng.com/picc/s/695-6956907_thumb-image-aesthetic-boy-clothes-png-transparent-png.png"
+    }, 
+    
+    {
+      "id":4,
+      "name":"ladies rain coat",
+      "price":76.99,
+      "category":"apparel",
+      "tags":["clothes", "winter", "ladies", "women", "style"],
+      "image":"https://p.kindpng.com/picc/s/130-1302683_women-clothes-png-womenswear-png-transparent-png.png"
+    }, 
+    
+    {
+      "id":5,
+      "name":"3 t-shirt pack",
+      "category":"apparel",
+      "price":403.90,
+      "tags":["men", "women", "t-shirts", "adults"],
+      "image":"https://p.kindpng.com/picc/s/149-1498458_bm-web-cads-long-sleeved-t-shirt-hd.png"
+    }, 
+    
+    {
+      "id":6,
+      "name":"long sleeved sweater",
+      "price":98.88,
+      "category":"apparel",
+      "tags":["winter", "ladies", "women", "girls"],
+      "image":"https://p.kindpng.com/picc/s/149-1498442_l-s-upland-collection-t-shirt-spice-over.png"
+    }, 
+    
+    {
+      "id":7,
+      "name":"red transparent blazer",
+      "price":399.99,
+      "tags":["designer", "girls", "ladies", "women", "adults"],
+      "category":"apparel",
+      "image":"https://p.kindpng.com/picc/s/151-1517093_transparent-blazer-png-3d-printed-jacket-png-download.png"
+    }, 
+    
+    {
+      "id":8,
+      "name":"woolen bathrobe",
+      "category":"apparel",
+      "price":120.22,
+      "tags":["men", "women", "family", "adults"],
+      "image":"https://p.kindpng.com/picc/s/786-7866144_bathrobe-png-woolen-transparent-png.png"
+    }, 
+    
+    {
+      "id":9,
+      "name":"overcoat",
+      "category":"apparel",
+      "price":66.86,
+      "tags":["winter", "cold", "men", "women", "family"],
+      "image":"https://p.kindpng.com/picc/s/779-7791287_overcoat-hd-png-download.png"
+    }, 
+    
+    {
+      "id":10,
+      "price":77.11,
+      "name":"cardigan",
+      "category":"apparel",
+      "tags":["women", "girls", "ladies"],
+      "image":"https://p.kindpng.com/picc/s/371-3713626_aesthetic-soft-filler-png-sweater-buttonup-button-cable.png"
+    }, 
+    
+    {
+      "id":11,
+      "name":"fur coat",
+      "tags":["wool", "adults", "winter", "cold"],
+      "price":210.22,
+      "category":"apparel",
+      "image":"https://p.kindpng.com/picc/s/425-4259765_fur-coat-png-cloth-png-for-picsart-transparent.png"
+    }, 
+    
+    {
+      "id":12,
+      "name":"pattern dress",
+      "category":"apparel",
+      "price":61.88,
+      "tags":["girls", "ladies", "women", "designer", "style"],
+      "image":"https://p.kindpng.com/picc/s/695-6957024_image-pattern-hd-png-download.png"
+    }, 
+    
+    {
+      "id":13,
+      "name":"black leather jacket",
+      "category":"apparel",
+      "price":143.87,
+      "tags":["winter", "women", "men", "boys", "girls"],
+      "image":"https://p.kindpng.com/picc/s/674-6744841_black-leather-jacket-png-clipart-leather-jacket-transparent.png"
+    }, 
+    
+    {
+      "id":14,
+      "name":"sweatshirt red",
+      "category":"apparel",
+      "price":56.99,
+      "tags":["men", "women", "girls", "boys", "kids"],
+      "image":"https://p.kindpng.com/picc/s/35-359287_how-to-start-a-hoodie-clothing-line-hoodie.png"
+    }, 
+    
+    {
+      "id":15,
+      "name":"kids blank pajama",
+      "price":50.99,
+      "category":"apparel",
+      "tags":["boys", "girls", "kids"],
+      "image":"https://p.kindpng.com/picc/s/250-2500889_kids-blank-pajama-sets-cotton-blank-children-pajama.png"
+    }, 
+    
+    {
+      "id":16,
+      "name":"wink dress",
+      "price":333.86,
+      "category":"apparel",
+      "tags":["girls", "women", "ladies", "style"],
+      "image":"https://p.kindpng.com/picc/s/390-3906874_girls-heirloom-clothing-wink-dress-pink-front-hd.png"
+    }, 
+    
+    {
+      "id":17,
+      "name":"day dress",
+      "category":"apparel",
+      "price":63.11,
+      "tags":["girls", "women", "ladies", "style"],
+      "image":"https://p.kindpng.com/picc/s/130-1303214_kids-clothes-png-day-dress-transparent-png.png"
+    }, 
+    
+    {
+      "id":18,
+      "name":"petite bello",
+      "category":"apparel",
+      "price":89.99,
+      "tags":["kids"],
+      "image":"https://p.kindpng.com/picc/s/501-5014446_petite-bello-clothing-set-4-5t-dog-print.png"
+    },
+
+    {
+      "id":19,
+      "name":"jordan clipart",
+      "category":"footware",
+      "price":99.89,
+      "tags":["bags", "men", "shoes", "footware"],
+      "image":"https://p.kindpng.com/picc/s/114-1149692_transparent-jordan-clipart-nike-shoes-png-transparent-png.png"
+    },
+
+    {
+      "id":20,
+      "name":"ballet shoes",
+      "price":669.89,
+      "category":"footware",
+      "tags":["shoes", "ladies", "women"],
+      "image":"https://p.kindpng.com/picc/s/5-57069_transparent-ballet-shoes-clipart-black-and-white-picsart.png"
+    }, 
+    
+    {
+      "id":21,
+      "name":"cosmos earrings",
+      "price":669.89,
+      "category":"accessories",
+      "tags":["jewellery", "women", "ladies", "girls"],
+      "image":"https://p.kindpng.com/picc/s/704-7049476_cosmos-earrings-small-model-van-cleef-cosmos-black.png"
+    }, 
+    
+    {
+      "id":22,
+      "name":"movado bold thin",
+      "category":"accessories",
+      "price":179.99,
+      "tags":["watches","men","women","girls","ladies"],
+      "image":"https://p.kindpng.com/picc/s/443-4437852_movado-bold-thin-movado-bold-ink-blue-dial.png"
+    }, 
+    
+    {
+      "id":23,
+      "name":"forest camo",
+      "category":"apparel",
+      "price":79.89,
+      "tags":["full pack", "family", "jungle", "winter", "men", "women"],
+      "image":"https://p.kindpng.com/picc/s/723-7231848_hunting-fishing-new-zealand-mens-forest-camo-pack.png"
+    }, 
+    
+    {
+      "id":24,
+      "name":"jas vermont",
+      "category":"apparel",
+      "price":999.89,
+      "tags":["winter", "cold", "jacket", "men", "boys"],
+      "image":"https://p.kindpng.com/picc/s/611-6114450_man-in-parka-png-jas-vermont-transparent-png.png"
+    }, 
+    
+    {
+      "id":25,
+      "name":"fusion titanium",
+      "price":879.79,
+      "category":"accessories",
+      "tags":["accesories", "watches"],
+      "image":"https://p.kindpng.com/picc/s/415-4156574_classic-fusion-titanium-diamonds-hublot-watch-classic-fusion.png"
+    }, 
+    
+    {
+      "id":26,
+      "name":"earrings",
+      "category":"accessories",
+      "price":600.80,
+      "tags":["accesories", "jewellery", "ladies", "women", "girls"],
+      "image":"https://p.kindpng.com/picc/s/140-1405538_earrings-png-image-transparent-png.png"
+    }, 
+    
+    {
+      "id":27,
+      "name":"knitted sweater",
+      "price":429.99,
+      "category":"apparel",
+      "tags":["hand made", "winter", "ladies", "women"],
+      "image":"https://p.kindpng.com/picc/s/627-6277016_designer-clothes-shoes-bags-for-women-men-knitted.png"
+    }, 
+    
+    {
+      "id":28,
+      "name":"swiss golden bar",
+      "category":"accessories",
+      "price":1299.99,
+      "tags":["accesories", "watches"],
+      "image":"https://p.kindpng.com/picc/s/207-2076971_swissgolden-gold-bar-premium-watches-women-transparent-background.png"
+    }, 
+    
+    {
+      "id":29,
+      "name":"apple watches",
+      "category":"accessories",
+      "price":499.99,
+      "tags":["accesories", "watches"],
+      "image":"https://p.kindpng.com/picc/s/134-1341411_apple-watch-2018-png-transparent-png.png"
+    }, 
+    
+    {
+      "id":30,
+      "name":"silver ring",
+      "category":"accessories",
+      "price":1199.99,
+      "tags":["accesories", "jewellery", "ladies", "women"],
+      "image":"https://p.kindpng.com/picc/s/557-5579678_thumb-image-silver-ring-jewellery-png-transparent-png.png"
+    }, 
+    
+    {
+      "id":31,
+      "name":"jadau necklace",
+      "category":"accessories",
+      "price":1399.89,
+      "tags":["accesories", "jewellery", "ladies", "women"],
+      "image":"https://p.kindpng.com/picc/s/161-1611636_necklace-set-with-gold-and-jadau-necklace-hd.png"
+    }, 
+    
+    {
+      "id":32,
+      "name":"titan metal",
+      "category":"accessories",
+      "price":769.99,
+      "tags":["accesories", "men", "adults"],
+      "image":"https://p.kindpng.com/picc/s/218-2188345_titan-ladies-purple-women-multifunction-metal-watch-metal.png"
+    }, 
+    
+    {
+      "id":33,
+      "name":"bangles gold",
+      "price":559.89,
+      "tags":["accesories", "jewellery", "ladies", "women"],
+      "category":"accessories",
+      "image":"https://p.kindpng.com/picc/s/117-1179875_jewellery-png-bangles-gold-jewellery-png-transparent-png.png"
+    }, 
+    
+    {
+      "id":34,
+      "name":"blue fur coat",
+      "price":699.99,
+      "tags":["ladies", "women", "winter", "blue"],
+      "category":"apparel",
+      "image":"https://p.kindpng.com/picc/s/793-7935382_fur-coat-blue-png-transparent-png-download.png"
+    }, 
+    
+    {
+      "id":35,
+      "name":"urban",
+      "tags":["adults", "men", "women", "beauty", "perfumes"],
+      "category":"fragrance",
+      "price":763.86,
+      "image":"https://p.kindpng.com/picc/s/189-1894792_products-tmc-web-189-men-s-perfume-combo.png"
+    },
+
+    {
+      "id":36,
+      "name":"refan",
+      "tags":["accesories", "beauty", "ladies", "women", "perfumes", "kids", "family"],
+      "category":"fragrance",
+      "price":494.99,
+      "image":"https://p.kindpng.com/picc/s/583-5830475_interesting-facts-about-the-perfumes-refan-perfume-hd.png"
+    },
+
+    {
+      "id":37,
+      "name":"black winter jacket",
+      "category":"apparel",
+      "price":73.80,
+      "tags":["winter", "ladies", "women", "women"],
+      "image":"https://p.kindpng.com/picc/s/473-4735535_black-winter-jacket-for-women-transparent-image-coat.png"
+    }, 
+    
+    {
+      "id":38,
+      "name":"ugg ladies boots",
+      "price":61.99,
+      "tags":["accesories", "shoes", "ladies", "women"],
+      "category":"footware",
+      "image":"https://p.kindpng.com/picc/s/1-17370_pair-of-ugg-ladies-boots-ugg-boots-hope.png"
+    }, 
+    
+    {
+      "id":39,
+      "name":"louis varel",
+      "category":"fragrance",
+      "price":969.89,
+      "tags":["beauty", "green", "perfumes", "family", "women", "men", "kids"],
+      "image":"https://p.kindpng.com/picc/s/783-7837562_bottle-louis-varel-extreme-patchouli-edp-100ml-hd.png"
+    }, 
+    
+    {
+      "id":40,
+      "name":"wool coat",
+      "price":73.79,
+      "tags":["winter", "thick", "grey","gray", "men"],
+      "category":"apparel",
+      "image":"https://p.kindpng.com/picc/s/8-89637_wool-coat-png-clipart-gents-tweed-long-coat.png"
+    }, 
+    
+    {
+      "id":41,
+      "name":"ladies hangbag",
+      "category":"accessories",
+      "price":1113.86,
+      "tags":["accesories", "bags", "ladies", "women", "grey", "gray"],
+      "image":"https://p.kindpng.com/picc/s/715-7150496_handbag-hd-png-download.png"
+    }, 
+    
+    {
+      "id":42,
+      "name":"tudoem ilhabela",
+      "category":"fragrance",
+      "price":604.86,
+      "tags":["accesories", "perfumes", "beauty", "family", "calvin klein"],
+      "image":"https://p.kindpng.com/picc/s/23-239286_tudoem-ilhabela-perfumes-importados-png-transparent-png.png"
+    }, 
+    
+    {
+      "id":43,
+      "name":"jasmin noir, bvlgari",
+      "category":"fragrance",
+      "price":189.99,
+      "tags":["accesories", "perfumes", "beauty", "adults"],
+      "image":"https://p.kindpng.com/picc/s/23-239356_famous-perfume-brands-for-women-hd-png-download.png"
+    }, 
+    
+    {
+      "id":44,
+      "name":"black stilettos",
+      "price":667.66,
+      "tags":["accesories", "footware", "ladies", "women"],
+      "category":"footware",
+      "image":"https://p.kindpng.com/picc/s/48-481776_black-stilettos-ladies-shoes-high-heels-hd-png.png"
+    }, 
+    
+    {
+      "id":45,
+      "name":"pink shoulder bag",
+      "category":"accessories",
+      "price":511.99,
+      "tags":["accesories", "bags", "ladies", "women", "pink"],
+      "image":"https://p.kindpng.com/picc/s/194-1942124_ladies-bags-free-transparent-images-shoulder-bag-hd.png"
+    }, 
+    
+    {
+      "id":46,
+      "name":"women bag",
+      "category":"accessories",
+      "price":123.86,
+      "tags":["accesories", "bags", "ladies", "women", "orange"],
+      "image":"https://p.kindpng.com/picc/s/194-1942112_women-bag-png-hd-ladies-bag-png-transparent.png"
+    }, 
+    
+    {
+      "id":47,
+      "name":"handbag",
+      "price":123.99,
+      "category":"accessories",
+      "tags":["accesories", "bags", "ladies", "women", "teal"],
+      "image":"https://p.kindpng.com/picc/s/715-7150109_ladies-bag-png-image-download-handbag-transparent-png.png"
+    }, 
+    
+    {
+      "id":48,
+      "name":"gym shoes",
+      "price":63.86,
+      "tags":["shooes", "footware", "men", "workout", "orange"],
+      "category":"footware",
+      "image":"https://p.kindpng.com/picc/s/39-390475_transparent-gym-shoes-png-yellow-shoes-transparent-background.png"
+    }, 
+    
+    {
+      "id":49,
+      "name":"slip-on leather shoes",
+      "price":1163.88,
+      "category":"footware",
+      "tags":["accesories", "shoes", "men", "black"],
+      "image":"https://p.kindpng.com/picc/s/274-2744285_slip-on-shoe-leather-walking-mens-dress-shoes.png"
+    }
+  ]
+}
