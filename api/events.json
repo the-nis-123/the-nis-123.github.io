@@ -1,0 +1,52 @@
+{
+  "events":[
+    {
+      "id":1,
+      "name":"the runway",
+      "images": [
+        "https://media.timeout.com/images/101690923/image.jpg",
+        "https://assets.vogue.com/photos/6182d1706a3a735578df0de0/master/w_2560%2Cc_limit/00_story.jpg",
+        "https://fashionpoliceng.com/wp-content/uploads/2015/02/nfw2.jpg",
+        "http://www.capturemodels.com/wp-content/uploads/2016/01/AFW-London.jpg",
+        "https://ichef.bbci.co.uk/news/976/cpsprodpb/1371B/production/_85634697_85634696.jpg.webp"
+      ]
+    },
+
+    {
+      "id":2,
+      "name":"music, wines and fashion",
+      "images":[
+        "https://luxurylondon.co.uk/wp-content/uploads/2022/08/london-fashion-week-2020-xl-hd-1465x1099-c-center.jpg",
+        "https://i.pinimg.com/originals/02/ef/b3/02efb38d476b4b8089d730ac78e93275.jpg",
+        "https://s2.glbimg.com/9NLMj6uBM0iLTNw_J65EM7tjy2o=/512x320/smart/e.glbimg.com/og/ed/f/original/2020/02/04/13-mfw-ss20-gucci-backstage-corey.jpg",
+        "https://assets.teenvogue.com/photos/5d37781efac81e00086f3ee5/16:9/w_2560%2Cc_limit/00-story-festival-fash.jpg",
+        "https://i.pinimg.com/736x/8f/ab/c6/8fabc6236146694745693f8631f5b6e6--studio--fashion-s-fashion.jpg"
+      ]
+    },
+
+    {
+      "id":3,
+      "name":"misitirious essentials",
+      "images":[
+        "https://media.architecturaldigest.com/photos/572288868e848e4c7a5a28d4/master/w_2100,h_1583,c_limit/fashion-exhibitions-summer-2016-04.jpg",
+        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-museum-01-1506702116.jpg",
+        "https://news.fitnyc.edu/wp-content/uploads/2020/06/newsroom-treasures-of-fashion.jpg",
+        "https://s3-ap-northeast-1.amazonaws.com/psh-ex-ftnikkei-3937bb4/images/6/9/2/2/35192296-3-eng-GB/Cropped-1625704787photo_SXM2021061900004543.jpg",
+        "https://news.fitnyc.edu/wp-content/uploads/2020/06/newsroom-treasures-of-fashion.jpg",
+        "https://www.optionstheedge.com/sites/default/files/field/featured-image/2020/bernard_1.jpg"        ]
+    },
+
+    {
+      "id":4,
+      "name":"misitirious fashion fesitival",
+      "images":[
+        "https://i.dailymail.co.uk/1s/2019/08/30/13/17871334-7410783-image-a-72_1567166454143.jpg",
+        "https://www.monitor.co.ug/resource/blob/3577808/e3d0f1fcd95c977a0c9f5f8e8bc4d7ea/full003pix-data.jpg",
+        "https://www.imago-images.com/bild/st/0093165112/s.jpg",
+        "https://www.himalayanbuzz.com/wp-content/uploads/2017/10/UFF.jpg",
+      "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/07/18/129914.jpg",
+      ""
+      ]
+    }
+  ]
+}
