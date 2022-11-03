@@ -7,6 +7,12 @@
     },
 
     {
+      "id":41,
+      "name":"Jewelry",
+      "image":"https://images.unsplash.com/photo-1618403088890-3d9ff6f4c8b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8amV3ZWxsZXJ5fGVufDB8MXwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+
+    {
       "id":2,
       "name":"Beauty and Fragrance",
       "image":"https://images.unsplash.com/photo-1631730201811-2f6451dbce8a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YmVhdXR5JTJDJTIwZnJhZ3JhbmNlJTIwYW5kJTIwY29zbWV0aWNzfGVufDB8MXwwfHw%3D&auto=format&fit=crop&w=500&q=60"
